@@ -60,7 +60,20 @@ SPRESENSEメインボード、もしくはLTE拡張基板をご用意くださ�
 ![photo3](DSC_0224.JPG)
 
 ### 3.結線の説明
-下図のようにLCDと接続されます
+下記のようにLCDと接続されます
+
+| SPRESENSE | Kit LCD |
+| ---- | ----|
+| 3.3V | LED、3.3V|
+| GND | GND|　
+| D26 | SW |
+| D24 |　CS |
+| D25 | DC |
+| D23 | SCK |
+| D19 | SW |
+| D18 | RESET|
+| D16 | SDI |
+| D17 | SDO |　　　　
 
 
 ### 4.サンプルコード
