@@ -67,7 +67,7 @@ SPRESENSEメインボード、もしくはLTE拡張基板をご用意くださ�
 | 3.3V | LED、3.3V|
 | GND | GND|　
 | D26 | SW |
-| D24 |　CS |
+| D24 | CS |
 | D25 | DC |
 | D23 | SCK |
 | D19 | SW |
