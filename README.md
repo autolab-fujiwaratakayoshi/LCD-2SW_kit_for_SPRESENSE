@@ -47,7 +47,9 @@ SPRESENSEメインボードとSPRESENSE LTE拡張ボード用のLCDにスイッ�
 ### 1.SPRESENSEの固定
 
 SPRESENSEメインボード、もしくはLTE拡張基板をご用意ください
+
 *本キットには含まれておりません
+
 *LTE拡張基板がなくても、動作可能です
 
 
