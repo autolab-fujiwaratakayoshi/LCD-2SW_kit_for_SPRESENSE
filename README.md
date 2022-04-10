@@ -53,11 +53,11 @@ SPRESENSEメインボード、もしくはLTE拡張基板をご用意くださ�
 
 下図のように付属のネジにて、SPRESENSEを固定してください
 
-![photo2](dsc_fix.jpg)
+![photo2](DSC_fix.jpg)
 
 ### 2.LCDを接続
 下図のように、LCDを接続してください
-![photo3](dsc_0224.jpg)
+![photo3](DSC_0224.jpg)
 
 ### 3.結線の説明
 下表のようにLCDと接続されます
