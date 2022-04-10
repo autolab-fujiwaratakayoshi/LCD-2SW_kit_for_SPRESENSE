@@ -1,5 +1,5 @@
-# LCD-2SW_kit_for_SPRESENSE
-
+# LCD-2SW_kit_for_SPRESENSEサポートページ
+![photo](main.jpg)
 ## 【概要】
 
 SPRESENSEメインボードとSPRESENSE LTE拡張ボード用のLCDにスイッチがついた基板キットで、テストプロダクトに最適です。ハンダ付け済みですぐに使い始めることができます。
@@ -40,3 +40,28 @@ SPRESENSEメインボードとSPRESENSE LTE拡張ボード用のLCDにスイッ�
 + 1x 梱包兼、SPRESENSE台（3Dプリント品）
 + 4x M3並目ねじ（黄銅、LCD基板を台に固定するのに使っています）
 + 4x M2並目ねじ（PC、SPRESENSE固定用）
+
+
+
+## 使い方
+### 1.SPRESENSEをご用意ください
+
+SPRESENSEメイン基板をご用意ください
+*本キットには含まれておりません
+
+付属のネジにて、固定してください
+
+### 2.LCDを接続
+下図のように、LCDを接続してください
+![ohiti1](dsc_0224.jpg)
+
+### 3.結線の説明
+下表のようにLCDと接続されます
+
+### 4.サンプルコード
+下記のサンプルコードが利用可能です
+*サンプルコードのサポートはしておりません
+
+SPRESENSE SDK によるサンプルコード
+
+https://github.com/sonydevworld/spresense/blob/master/examples/dsc/README.txt?fbclid=IwAR0_vmce_N4uS75KHTwVmGOV5lMOFthvF2UpiGuHly2eQa9HiIT0s3T-5no
